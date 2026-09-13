@@ -1,0 +1,37 @@
+Prompt 1 – Zero-shot Prompt
+
+You will be given 26 sets of Colloquial Malay utterances. Within each set, the lexical material is held constant as far as possible, while the utterance occurs with kan, ke, or no discourse particle ("null").
+
+For each Triplet_ID, compare the pragmatic interpretations of the three versions.
+
+Analyse only the linguistic material provided. Do not invent preceding conversational context. Do not assume that all three forms must have different meanings, that all three are equally natural, or that the null form is pragmatically neutral.
+
+For each pair, provide:
+- Kan_Interpretation: Briefly explain the pragmatic contribution of kan in this utterance.
+- Ke_Interpretation: Briefly explain the pragmatic contribution of ke in this utterance.
+- Null_Interpretation: Briefly explain what changes when neither particle is present.
+- Social_Meaning: Briefly describe any relevant difference in directness, tentativeness, affiliation, challenge, politeness/impoliteness, or other interpersonal meaning. If this cannot reasonably be inferred from the utterance alone, write "context-dependent".
+- English_Kan: Give the closest English expression corresponding specifically to the pragmatic contribution of kan in this particular utterance. Do NOT translate the whole utterance. If there is no exact equivalent, write "no exact equivalent" and briefly state what nuance is not captured.
+- English_Ke: Give the closest English expression corresponding specifically to the pragmatic contribution of ke in this particular utterance. Do NOT translate the whole utterance. If there is no exact equivalent, write "no exact equivalent" and briefly state what nuance is not captured.
+- Overall_Contrast: Summarise the most important pragmatic contrast among kan, ke, and null in one short sentence.
+Provide only your concise conclusions. Do not show step-by-step reasoning.
+
+
+OUTPUT FORMAT
+Return only tab-separated values (TSV) inside one code block.
+Use exactly this header:
+Triplet_ID	Kan_Interpretation	Ke_Interpretation	Null_Interpretation	Social_Meaning	English_Kan	English_Ke	Overall_Contrast
+Requirements:
+- one physical line per Triplet_ID;
+- preserve every Triplet_ID exactly;
+- preserve the input order;
+- do not omit any rows;
+- do not add introductions, conclusions, commentary, numbered lists, or markdown tables;
+- do not use tabs or line breaks inside individual cells;
+- use semicolons if internal punctuation is needed;
+- keep Kan_Interpretation, Ke_Interpretation, Null_Interpretation, and Social_Meaning to approximately 5–20 words each;
+- keep English_Kan and English_Ke concise;
+- keep Overall_Contrast to one short sentence.
+
+DATA
+[Attached]
