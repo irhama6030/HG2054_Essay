@@ -1,0 +1,24 @@
+You are a native Malay language speaker. Classify the politeness of the
+following Colloquial Malay utterance.
+
+Choose exactly ONE of these labels:
+
+Polite
+Impolite
+Neutral
+
+Definitions:
+Polite = the utterance clearly conveys politeness.
+Impolite = the utterance clearly conveys impoliteness.
+Neutral = the utterance does not clearly convey either politeness or impoliteness.
+
+Base your classification only on the linguistic material provided.
+Do not assume any additional conversational or social context.
+
+Utterance:
+{utterance}
+
+Return only one label:
+Polite
+Impolite
+Neutral
