@@ -1,0 +1,91 @@
+Triplet_ID,Particle,Utterance,Direct_Rating,CoT_Rating,Identical?
+MP001,kan,@A_besarrrrrrrr @gilabola_ina lah norwey kan lolos,Neutral,Neutral,Yes
+MP001,ke,@A_besarrrrrrrr @gilabola_ina lah norwey ke lolos,Neutral,Neutral,Yes
+MP001,null,@a_besarrrrrrrr @gilabola_ina lah norwey lolos,Neutral,Neutral,Yes
+MP002,kan,@an0therk4i_ Betul kan?,Neutral,Neutral,Yes
+MP002,ke,@an0therk4i_ Betul ke?,Neutral,Neutral,Yes
+MP002,null,@an0therk4i_ betul,Neutral,Neutral,Yes
+MP003,kan,"@bedisnumberone OALAH JIR ISENG LAH
+
+tp intinya lucu kan???",Neutral,Impolite,No
+MP003,ke,"@bedisnumberone OALAH JIR ISENG LAH
+
+tp intinya lucu ke???",Impolite,Neutral,No
+MP003,null,@bedisnumberone oalah jir iseng lah tp intinya lucu,Neutral,Neutral,Yes
+MP004,kan,@BlackDah714 Betul.. balance kan dgn rl.. jgn sapu ds semua.. gelap..,Neutral,Neutral,Yes
+MP004,ke,@BlackDah714 Betul.. balance ke dgn rl.. jgn sapu ds semua.. gelap..,Neutral,Neutral,Yes
+MP004,null,@blackdah714 betul.. balance dgn rl.. jgn sapu ds semua.. gelap,Neutral,Neutral,Yes
+MP005,kan,"@Bougenvilleas Bertumbuk lah kita kak, April mop kan ini 🫵",Neutral,Neutral,Yes
+MP005,ke,"@Bougenvilleas Bertumbuk lah kita kak, April mop ke ini 🫵",Impolite,Impolite,Yes
+MP005,null,"@bougenvilleas bertumbuk lah kita kak, april mop ini 🫵",Neutral,Neutral,Yes
+MP006,kan,@CNNIndonesia Mana ada maling ngaku maling. Betul kan bu??? @permadiaktivis4,Neutral,Polite,No
+MP006,ke,@CNNIndonesia Mana ada maling ngaku maling. Betul ke bu??? @permadiaktivis4,Polite,Polite,Yes
+MP006,null,@cnnindonesia mana ada maling ngaku maling. betul bu??? @permadiaktivis4,Neutral,Impolite,No
+MP007,kan,@curetsyi kan dah prnah,Neutral,Neutral,Yes
+MP007,ke,@curetsyi ke dah prnah,Neutral,Neutral,Yes
+MP007,null,@curetsyi dah prnah,Neutral,Neutral,Yes
+MP008,kan,"@extrajossangurr Sedap kan, lagi ii bf punya 🫣",Neutral,Neutral,Yes
+MP008,ke,"@extrajossangurr Sedap ke, lagi ii bf punya 🫣",Neutral,Neutral,Yes
+MP008,null,"@extrajossangurr sedap , lagi ii bf punya 🫣",Neutral,Neutral,Yes
+MP009,kan,@hari_kun @buywle Lah sahamnya kan sama... Harganya sama kyk harga ril,Neutral,Neutral,Yes
+MP009,ke,@hari_kun @buywle Lah sahamnya ke sama... Harganya sama kyk harga ril,Neutral,Neutral,Yes
+MP009,null,@hari_kun @buywle lah sahamnya sama... harganya sama kyk harga ril,Neutral,Neutral,Yes
+MP010,kan,"@heart4hyeon betul kan, kayaknya yg kanan tu palsu",Neutral,Neutral,Yes
+MP010,ke,"@heart4hyeon betul ke, kayaknya yg kanan tu palsu",Neutral,Neutral,Yes
+MP010,null,"@heart4hyeon betul, kayaknya yg kanan tu palsu",Neutral,Neutral,Yes
+MP011,kan,"@kimddaeeng Ye kan, dah lah mundur mundur 😔",Impolite,Neutral,No
+MP011,ke,"@kimddaeeng Ye ke, dah lah mundur mundur 😔",Impolite,Impolite,Yes
+MP011,null,"@kimddaeeng ye, dah lah mundur mundur 😔",Impolite,Impolite,Yes
+MP012,kan,@mastermindme6 Betul kan? 😂,Neutral,Neutral,Yes
+MP012,ke,@mastermindme6 Betul ke? 😂,Neutral,Neutral,Yes
+MP012,null,@mastermindme6 betul? 😂,Neutral,Neutral,Yes
+MP013,kan,"@perum_damri @direktoridosen Ya kan masih muda, 2 tahun lagi mungkin dah bebas",Neutral,Neutral,Yes
+MP013,ke,"@perum_damri @direktoridosen Ya ke masih muda, 2 tahun lagi mungkin dah bebas",Neutral,Neutral,Yes
+MP013,null,"@perum_damri @direktoridosen ya masih muda, 2 tahun lagi mungkin dah bebas",Neutral,Neutral,Yes
+MP014,kan,@roosseri Lah itu arah bandara kan,Neutral,Neutral,Yes
+MP014,ke,@roosseri Lah itu arah bandara ke,Neutral,Neutral,Yes
+MP014,null,@roosseri lah itu arah bandara,Neutral,Neutral,Yes
+MP015,kan,@sapphicsfess Lah fandom aespa tuh 🗿 mys kan isinya lesbi semua kbnykan,Neutral,Neutral,Yes
+MP015,ke,@sapphicsfess Lah fandom aespa tuh 🗿 mys ke isinya lesbi semua kbnykan,Neutral,Neutral,Yes
+MP015,null,@sapphicsfess lah fandom aespa tuh 🗿 mys isinya lesbi semua kbnykan,Neutral,Neutral,Yes
+MP016,kan,@wicaksanas @Alwendozhang Lah tetap new material Kan...,Neutral,Neutral,Yes
+MP016,ke,@wicaksanas @Alwendozhang Lah tetap new material ke...,Neutral,Neutral,Yes
+MP016,null,@wicaksanas @alwendozhang lah tetap new material,Neutral,Neutral,Yes
+MP017,kan,@zick4sho lah km kan istri ku,Neutral,Neutral,Yes
+MP017,ke,@zick4sho lah km ke istri ku,Neutral,Neutral,Yes
+MP017,null,@zick4sho lah km istri ku,Neutral,Neutral,Yes
+MP018,kan,Betul kan?,Neutral,Neutral,Yes
+MP018,ke,betul ke?,Neutral,Neutral,Yes
+MP018,null,betul,Neutral,Neutral,Yes
+MP019,kan,"Betul kan ?
+https://t.co/2Fs54xPKso",Neutral,Neutral,Yes
+MP019,ke,"Betul ke ?
+https://t.co/2Fs54xPKso",Neutral,Neutral,Yes
+MP019,null,betul ? https://t.co/2fs54xpkso,Neutral,Neutral,Yes
+MP020,kan,Betul firasat ak kan gaji kena potong😇 anjg,Impolite,Impolite,Yes
+MP020,ke,Betul firasat ak ke gaji kena potong😇 anjg,Impolite,Impolite,Yes
+MP020,null,betul firasat ak gaji kena potong😇 anjg,Impolite,Impolite,Yes
+MP021,kan,Betul jugak kan? (Lawak santai lantai?),Neutral,Neutral,Yes
+MP021,ke,Betul jugak ke? (Lawak santai lantai?),Neutral,Neutral,Yes
+MP021,null,betul jugak ? (lawak santai lantai?),Neutral,Neutral,Yes
+MP022,kan,"Hari sabtu kena lukis kan? Nah, ambik ni.",Neutral,Neutral,Yes
+MP022,ke,"Hari sabtu kena lukis ke? Nah, ambik ni.",Neutral,Neutral,Yes
+MP022,null,"hari sabtu kena lukis ? nah, ambik ni",Neutral,Neutral,Yes
+MP023,kan,Kartun ni dulu Ade kat Astro ceria kan?,Neutral,Neutral,Yes
+MP023,ke,Kartun ni dulu Ade kat Astro ceria ke?,Neutral,Neutral,Yes
+MP023,null,kartun ni dulu ade kat astro ceria,Neutral,Neutral,Yes
+MP024,kan,Nampak macam salji kan? https://t.co/npwqAJo4r6,Neutral,Neutral,Yes
+MP024,ke,Nampak macam salji ke? https://t.co/npwqAJo4r6,Neutral,Neutral,Yes
+MP024,null,nampak macam salji? https://t.co/npwqajo4r6,Neutral,Neutral,Yes
+MP025,kan,"OMG!! SO CUTE!! 😍Kalau cabut cap lagi cute, kan? 🙈 https://t.co/pPFiorU0bc",Neutral,Neutral,Yes
+MP025,ke,"OMG!! SO CUTE!! 😍Kalau cabut cap lagi cute, ke? 🙈 https://t.co/pPFiorU0bc",Neutral,Neutral,Yes
+MP025,null,"omg!! so cute!! 😍kalau cabut cap lagi cute, ? 🙈 https://t.co/ppfioru0bc",Polite,Neutral,No
+MP026,kan,"Pon boleh, kan? 🤦🏻‍♂️ https://t.co/mqil4vk0wh",Neutral,Neutral,Yes
+MP026,ke,"Pon boleh, ke? 🤦🏻‍♂️ https://t.co/mqil4vk0wh",Neutral,Neutral,Yes
+MP026,null,pon boleh? 🤦🏻‍♂️ https://t.co/mqil4vk0wh,Neutral,Impolite,No
+MP027,kan,Satu cadangan yang bagus...kan? https://t.co/GbrIqNi6o4,Neutral,Neutral,Yes
+MP027,ke,Satu cadangan yang bagus...ke? https://t.co/GbrIqNi6o4,Neutral,Neutral,Yes
+MP027,null,satu cadangan yang bagus...? https://t.co/gbriqni6o4,Neutral,Neutral,Yes
+MP028,kan,tau kan entak kapak yang salah atau wanita yg salah😅,Neutral,Neutral,Yes
+MP028,ke,tau ke entak kapak yang salah atau wanita yg salah😅,Neutral,Neutral,Yes
+MP028,null,tau entak kapak yang salah atau wanita yg salah😅,Neutral,Neutral,Yes
