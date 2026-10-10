@@ -1,0 +1,18 @@
+Direct Prompting,,,
+Particle,Impolite,Neutral,Polite
+kan,2,26,0
+ke,4,23,1
+null,2,25,1
+,,,
+Cot Prompting,,,
+Particle,Impolite,Neutral,Polite
+kan,2,25,1
+ke,3,24,1
+null,4,24,0
+,,,
+Comparison,,,
+Particle,Identical?,,
+,No,Yes,
+kan,3,25,
+ke,1,27,
+null,3,25,
